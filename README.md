@@ -1,2 +1,2 @@
-# event-action-mae
-Event-based Action Recognition by Pre-Training on Multi-Frame Representations
+# Event-based Action Recognition by Pre-Training on Multi-Frame Representations
+
